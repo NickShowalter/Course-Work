@@ -1,4 +1,4 @@
-# Course-Work
+# Deep Learning Specialization
 This repository is the corresponding assignments and quizzes from the Andrew Ng 5 part Deep Learning specialization on Coursera.
 
 Course 1 Neural Networks
